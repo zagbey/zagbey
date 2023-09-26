@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zagbey
 - 👀 I’m interested in Back end
-- 🌱 I’m currently learning C#,SQL,.NET
+- 🌱 I’m currently learning C#,SQL,ASP.NET Core,Entity Framework,OOP
 - 📫 How to reach me https://www.linkedin.com/in/zeynel-abidin-gencer-b98780225/
 
 <!---
